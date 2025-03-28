@@ -1,0 +1,33 @@
+body{
+    background-color: #006494;
+}
+#ballumax:hover{
+border: 2px solid #52c1f4;
+    border-radius: 2px;
+    color: black;
+}
+#heading:hover{
+    border: 2px solid #52c1f4;
+    border-radius: 3px;
+}
+#maxweblink{
+    color: #52c1f4
+}
+#maxlinkedlink{
+    color: #52c1f4
+}
+#thecertifications{
+    background-color: white;
+    color: black;
+}
+#thecertification{
+    background-color: white;
+    color: black;
+}
+#iimcertificate{
+    border-radius: 20px;
+    border: 4px solid black;
+    display: block;
+    margin: auto;
+    width: 50%;
+}
